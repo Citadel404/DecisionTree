@@ -31,3 +31,5 @@ bin/
 /target/
 /target/
 /target/
+/src/test/
+/.idea/libraries/
