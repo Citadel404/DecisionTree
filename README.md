@@ -119,7 +119,7 @@ Yin Lee  https://www.cyberfens.cn
 
 ### 版权说明
 
-该项目签署了Apache License 2.0 授权许可，详情请参阅 [LICENSE](https://github.com/Citadel404/DecisionTree/master/LICENSE)
+该项目签署了Apache License 2.0 授权许可，详情请参阅 [LICENSE](https://github.com/Citadel404/DecisionTree?tab=Apache-2.0-1-ov-file)
 
 
 <!-- links -->
