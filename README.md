@@ -125,4 +125,4 @@ Yin Lee  https://www.cyberfens.cn
 <!-- links -->
 [your-project-path]:Citadel404/DecisionTree
 [contributors-url]: https://github.com/Citadel404/DecisionTree/graphs/contributors
-[license-url]: https://github.com/Citadel404/DecisionTree/master/LICENSE
+[license-url]: https://github.com/Citadel404/DecisionTree?tab=Apache-2.0-1-ov-file
