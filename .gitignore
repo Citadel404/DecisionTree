@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 /target/
+/target/classes/
 
 ### Eclipse ###
 .apt_generated
@@ -33,3 +34,4 @@ bin/
 /target/
 /src/test/
 /.idea/libraries/
+/target/classes/
